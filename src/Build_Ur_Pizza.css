@@ -1,0 +1,19 @@
+.card1{
+    width:60% ;
+    margin: auto;
+    margin-bottom: 20px;
+}
+h5{
+    color:rgb(0, 0, 163)
+}
+label{
+    margin-left: 20px;
+    color:#ffa600;
+}
+table{
+    align-content: center;
+    width:100%;
+}
+.table-container{
+    overflow-x: auto;
+}
